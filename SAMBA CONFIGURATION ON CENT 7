@@ -1,4 +1,4 @@
-SAMBA Configurations:
+http://www.opennet.ru/base/net/samba_full_audit.txt.htmlSAMBA Configurations:
 	If you are either a power home user or you are in a business environment, you know the importance of machines being able to see one another. "Sharing Files  & Folders Between Linux, Mac, and Windows" which skimmed this topic, showing how simple it is to allow these different operating systems to see one another - with the help of Samba. 
 
 nmbd
@@ -108,5 +108,7 @@ local7.* /var/log/samba.log
 
 systemctl restart smb
 
+
+http://www.opennet.ru/base/net/samba_full_audit.txt.html
 
 https://moiristo.wordpress.com/2009/08/10/samba-logging-user-activity/
