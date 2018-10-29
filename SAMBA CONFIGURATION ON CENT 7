@@ -107,6 +107,6 @@ vim /etc/rsyslog.conf
 local7.* /var/log/samba.log
 
 systemctl restart smb
-
+http://a32.me/2009/10/samba-audit-trail/
 
 https://moiristo.wordpress.com/2009/08/10/samba-logging-user-activity/
